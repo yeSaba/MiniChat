@@ -1,0 +1,7 @@
+venv
+.env
+db.sqlite3
+alembic.ini
+versions
+READ.ME
+script.py.mako
